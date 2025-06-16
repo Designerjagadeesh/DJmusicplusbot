@@ -4,7 +4,7 @@ import requests
 from pyrogram import Client, filters
 from pyrogram.types import Message
 from pytgcalls import PyTgCalls
-from pytgcalls.types.input_stream import AudioPiped
+from pytgcalls.types.input_streams import AudioPiped
 from config import API_ID, API_HASH, BOT_TOKEN, SESSION_STRING
 import yt_dlp
 
