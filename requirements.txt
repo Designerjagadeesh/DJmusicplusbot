@@ -4,4 +4,5 @@ tgcrypto
 python-dotenv
 pysocks
 aiohttp
+requests
 git+https://github.com/pytgcalls/pytgcalls@dev
