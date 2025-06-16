@@ -5,4 +5,4 @@ python-dotenv
 pysocks
 aiohttp
 requests
-git+https://github.com/pytgcalls/pytgcalls@d97ea83
+git+https://github.com/pytgcalls/pytgcalls@refs/heads/v2
